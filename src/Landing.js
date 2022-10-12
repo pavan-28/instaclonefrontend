@@ -7,7 +7,7 @@ export default function Landing() {
     <div className='container'>
 
       <div className='imagee'>
-        <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/46/14/f1/4614f103-f42a-ef21-0369-adc950a1dfdd/source/512x512bb.jpg" alt='Clone_Image'/>
+        <img src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" alt='Clone_Image'/>
       </div>
 
       <div className='textLand'>
